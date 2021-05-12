@@ -1,6 +1,6 @@
 {
   "name": "@mechazawa/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Personal eslint configs",
   "main": "index.js",
   "repository": "git@github.com:Mechazawa/eslint-config.git",
